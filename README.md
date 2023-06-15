@@ -1,4 +1,4 @@
-- 👋 Hi, we're @HardwareTeams
+- 👋 Hi, we're @HardwareTeams, we run [HardwareTeams.com](https://hardwareteams.com)
 - 👀 We're interested in all things related to hardware, electrical engineering, and computer engineering
 - 💞️ We're looking for help on the [standard driver project](https://github.com/HardwareTeams/standard-driver-project)
 - 📫 How to reach us: hardwareteams@gmail.com
